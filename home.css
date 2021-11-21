@@ -4,6 +4,16 @@ body{
     grid-gap: 10px;
     padding: 20px;
 }
+.heading{
+	text-align: center;
+	font-size: x-large;
+	color: darkcyan;
+	font-family: fantasy;
+	font-weight: 500;
+	border:white dashed 3px;
+	border-radius:1000px;
+	background-color: whitesmoke;
+}
 .info{
     display: grid;
     grid-template-columns: 1fr 4fr;
@@ -19,9 +29,15 @@ body{
     border-radius: 12px;
     padding: 20px;
 }
-.r1,.r2{
+.r1{
     margin: 10px;
     padding: 20px;
-    background-color: rgb(103, 168, 168);
+    background-color: rgb(141, 199, 199);
 	border-radius: 10px;
+}
+.gw{
+	background-color: gainsboro;
+	padding: 30px;
+	border-radius: 12px;
+	border: double 5px rgb(114, 76, 76);
 }
