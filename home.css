@@ -20,7 +20,8 @@ body{
     padding: 20px;
 }
 .r1,.r2{
-    margin: 5px;
-    padding: 5px;
-    background-color: azure;
+    margin: 10px;
+    padding: 20px;
+    background-color: rgb(103, 168, 168);
+	border-radius: 10px;
 }
